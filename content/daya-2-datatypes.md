@@ -7,6 +7,7 @@
 
 ### String
 
+- array of characters
 - "abcd"
 - subscript
 	- "abcd"[0] -> a
@@ -27,6 +28,7 @@
 var = 10
 - type(var)
 	- result will be: <class 'int'>
+    
 ### how to do type conversion
 
 > age = "33"
