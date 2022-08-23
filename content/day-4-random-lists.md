@@ -19,6 +19,8 @@ Following web site can be used to search for the modules in the python
 ### Lists
 - DS
 - accepts dynamic values
+- List items are ordered, changeable, and allow duplicate values.
+- List items are indexed, the first item has index [0], the second item has index [1] etc.
 - How to use list
   > names = ['a','b','c']
   > names
@@ -29,3 +31,13 @@ Following web site can be used to search for the modules in the python
 - list basic functions reference
   
 [Ref] (https://docs.python.org/3.10/tutorial/introduction.html#lists)
+
+## List Operations
+
+- Accessing the list
+- Iterating the list
+- Updating the list
+- Joining the lists
+- List comprehension
+- Sorting the list
+- Available list methods
