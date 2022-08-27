@@ -1,7 +1,10 @@
 ## Dictionary
 
 - is a map, with key vakue pair
-- key allows unique values
+- key allows only unique value
+- value can be string, number, list, object, name of the variable or function name
+- we can use the dict as function factory map, this will help to do dynamic function calling
+
 
 ## Nesting
 

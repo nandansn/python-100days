@@ -6,7 +6,7 @@
 
 
 
-- how to you an module?
+- how to use an module?
   - create a python file
   -  use import 'file name' - this is called module name
   -  you can use that 'module name' and access the variable or funtion
