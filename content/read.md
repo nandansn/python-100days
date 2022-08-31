@@ -8,3 +8,8 @@ How to get the emoji?
 
 Python coding guide
 [Ref] (https://peps.python.org/pep-0008/#indentation)
+
+Quiz DB api:
+
+[Ref] (https://opentdb.com/api_config.php)
+[Ref] (https://opentdb.com/api.php?amount=100&type=boolean)
