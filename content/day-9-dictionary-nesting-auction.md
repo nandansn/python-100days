@@ -14,3 +14,6 @@
 	- {"nanda": { "name": "nanda", "age":42 }}
 - nesting dictionary in the list
 	- persons = [{'name':'nanda'},{'name':'sanmathi'}]
+
+## comprehension
+[ref] (https://www.programiz.com/python-programming/dictionary-comprehension)
