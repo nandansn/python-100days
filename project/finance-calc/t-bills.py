@@ -14,7 +14,7 @@ def total_maturity_amount(tenure, amount, interest, yrs):
         count -= 1
     return m_amount
 
-print(total_maturity_amount('3',10000000,5.59, 25))
+print(total_maturity_amount('12',7438445,10, 1))
 
 
  

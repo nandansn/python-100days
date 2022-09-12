@@ -12,7 +12,7 @@
 > with open('file path') as file:
 >   file.read()
 
-- with code block will take care of closing the file, no explicit call to close() mthod is required.
+- 'with' code block will take care of closing the file, no explicit call to close() mthod is required.
 
 #### Open, write and close the file
 
