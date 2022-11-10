@@ -32,7 +32,7 @@ for item in fii_net_buy_sale_tds:
     fii_sum = fii_sum + amount
     #print(float(item.string.replace(',', '')))
 
-print(fii_sum)
+print("TOTAL FII Investments:",fii_sum)
 
 dii_sum = 0
 
@@ -41,4 +41,6 @@ for item in dii_net_buy_sale_tds:
     dii_sum = dii_sum + amount
     #print(float(item.string.replace(',', '')))
 
-print(dii_sum)
+print("Total DII Investments:",dii_sum)
+
+print("Total FII DII Investments:", fii_sum + dii_sum)
