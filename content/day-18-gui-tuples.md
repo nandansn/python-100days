@@ -19,6 +19,6 @@
 ### Tuple
 - tuple is a DS
 - stores the values with in (1,2,3)
-- you cant add/update/delete the values in the tuple
+- you can't add/update/delete the values in the tuple, once initialised
 - to access tuple value use num = (1,2,3), num[0]
 - convert tuple to list using list(num)

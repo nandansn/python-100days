@@ -12,6 +12,13 @@
 - subscript
 	- "abcd"[0] -> a
 
+### Type checking,
+
+	- method type(), will return the type of the data passed in to the function
+
+### Type conversion,
+	- str(123) convert num to str
+
 ### Floating point number
 
 - point that floats around the number like,
