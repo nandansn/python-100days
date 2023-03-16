@@ -68,8 +68,9 @@ var = 10
 
 - how to round a float value, using round()
 	- round(2.456,2) => 2.45
-    - 10 // 7 returns the integer
+    - 10 // 7 returns the integer, floor division
     - we can use math.floor() and math.ceil() to convert a number to ceil or floor value
+	- +=
 
 ### String format
 

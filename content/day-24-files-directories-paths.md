@@ -4,7 +4,7 @@
 
 
 #### Open, read and close the file
-- using open method open('file path'), by default the file will be opened in the read mole
+- using open method open('file path'), by default the file will be opened in the read mode
 - open() method returns the file object, using the file object call read() method, to read the content of the file,
 - store the file content in a string or you can directly print
 - close the file using close() method

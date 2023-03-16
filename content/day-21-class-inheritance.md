@@ -8,7 +8,10 @@
 
 - we can override the parent methods by the child class methods
 
-
+## Notes:
+- there is no interface concept in python
+- we can declare the abstract method using the decorator
+- refer this (https://www.godaddy.com/engineering/2018/12/20/python-metaclasses/#:~:text=Unfortunately%2C%20Python%20doesn't%20have,in%20order%20to%20be%20initialized.)
 
 ## Slice Lists
 

@@ -2,6 +2,7 @@
 - random module is used to generate the random numbers whole or float numbers
 > import 'random'
 > random_int_number = random.randint(1,10)
+> random_float = random.random() # returns floating point number between 0 to 1, if you want between 0 to 5, then multiply the result by 5
 
 
 

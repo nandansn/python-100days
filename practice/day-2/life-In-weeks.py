@@ -1,6 +1,6 @@
 age = int(input('your age:'))
 
-max_life_years = 90
+max_life_years = 73
 
 
 remaining_yrs = max_life_years - age
